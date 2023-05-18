@@ -7,7 +7,7 @@ There are four options:
 1. track an expense or income
 2. see the toals by category
 3. see the overall balance.
-Or 0 to quit. \
+Or 0 to quit. 
 Each function is called base on which integer user has input, if it's not 1, 2, 3, or 0, it will go back to showing the options. If the input is 0, the program will terminate. \
 Now, the first function prints the current dictionary of expenses and incomes. It will add a new record with the category the user chooses and amount. User should input a positive number if it's an income and a negative number if it's an expense.
 I made it in try except blocks function so the function will throw an error if the category does not exist in the current dictionary or the amount is not a number and go back to asking for an input. \
