@@ -1,4 +1,5 @@
  # Simple Money Tracker
+ ### Video Demo: https://youtu.be/rJu4zCI85ak
  #### Description:
 I made a money tracker that is simple. I find it difficult to be consistent with money tracking so I wanted to make a program that is straightfoward to use and easy to keep up with. \
 It consists of main and three other functions. \
